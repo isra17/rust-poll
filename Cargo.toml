@@ -1,0 +1,8 @@
+[package]
+name = "poll"
+version = "0.1.0"
+authors = ["isra17 <isra017@gmail.com>"]
+
+[dependencies]
+libc = "0.1"
+bitflags = "0.2"
